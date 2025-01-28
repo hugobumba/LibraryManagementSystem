@@ -1,4 +1,4 @@
-package com.bookmanagement.spring;
+package com.bookmanagement.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
